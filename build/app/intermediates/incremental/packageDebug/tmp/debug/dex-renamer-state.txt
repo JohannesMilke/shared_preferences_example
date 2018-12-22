@@ -1,0 +1,4 @@
+#Sat Dec 22 22:13:13 CET 2018
+base.0=C\:\\flutter_projects\\advent22_shared_preferences\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
