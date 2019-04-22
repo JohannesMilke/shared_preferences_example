@@ -4,7 +4,7 @@ An example of shared preferences to store data of our app permanently. A Flutter
 
 Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Milke")
 
-Facebook: [Johannes.Milke.37](https://www.facebook.com/johannes.milke.37 "Facebook Johannes Milke")
+Facebook: [JohannesMilke](https://www.facebook.com/milkejohannes "Facebook Johannes Milke")
 
 Medium: [@JohannesMilke](https://medium.com/@johannesmilke  "Flutter Articles of Johannes Milke")
 
